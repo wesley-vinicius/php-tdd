@@ -1,3 +1,7 @@
+Leilao (Test\Model\Leilao)
+ [x] Leilao deve receber lances with data set "2-lances"
+ [x] Leilao deve receber lances with data set "1-lance"
+
 Avaliador (Test\Services\Avaliador)
  [x] Avaliador deve encontrar o maior valor de lances with data set "ordem-aleatoria"
  [x] Avaliador deve encontrar o maior valor de lances with data set "ordem-crescente"
