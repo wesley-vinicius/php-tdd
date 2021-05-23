@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Domain;
+namespace Tests\Unit\Service;
 
 use App\Model\Lance;
 use App\Model\Leilao;
